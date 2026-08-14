@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# YOLO model weights
+*.pt
+*.weights
+
+# YOLOv3 files not used by the current YOLOv8 implementation
+yolov3.cfg
+coco.names
+
+# Temporary files
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
