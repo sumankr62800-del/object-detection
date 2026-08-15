@@ -18,7 +18,7 @@ The application processes live video frames, detects objects using the YOLOv8 Na
 
 ## 🎥 Demo
 
-> 
+> https://github.com/sumankr62800-del/object-detection/blob/712099797418a447cff2ae9ca61e338f4c631d5e/Recording%202026-08-14%20193122.mp4
 
 The application performs real-time object detection using a webcam and provides an interactive OpenCV window with fullscreen support.
 
